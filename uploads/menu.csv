@@ -1,0 +1,26 @@
+SectionName,SectionOrder,Price,Item,CategoryName,Type,Heighlightdescription,ImageUrl,OfferHihglight,OfferDescription,ContainerCharge,Available,isRecommendedItem,RecommendedImageUrl,isVisible
+Soup,1,100,Hot & Sour (Veg),,Veg,,img/pics/Hot & Sour (Veg).PNG,,,10,10,true,img/pics/Hot & Sour (Veg).PNG,true
+Soup,1,140,Hot & Sour (Chicken),,Non Veg,,img/pics/Hot & Sour (Chicken).PNG,,,20,10,false,img/pics/Hot & Sour (Chicken).PNG,true
+Soup,1,170,Hot & Sour (Mutton),,Non Veg,,img/pics/Hot & Sour (Mutton).PNG,,,10,10,true,img/pics/Hot & Sour (Mutton).PNG,true
+Soup,4,110,Cream Of Tomato,,Veg,,img/pics/Cream Of Tomato.PNG,,,10,10,true,img/pics/Cream Of Tomato.PNG,true
+Soup,5,110,Cream Of Mushroom,,Veg,,img/pics/Cream Of Mushroom.PNG,,,10,10,true,img/pics/Cream Of Mushroom.PNG,true
+Soup,6,110,Cream Of Veg,,Veg,,img/pics/Cream Of Veg.PNG,,,10,10,true,img/pics/Cream Of Veg.PNG,true
+Soup,7,120,Cream Of Chicken,,Non Veg,,img/pics/Cream Of Chicken.PNG,,,10,10,false,img/pics/Cream Of Chicken.PNG,true
+Soup,8,100,Manchow (Veg),,Veg,,img/pics/Manchow (Veg).PNG,,,10,10,false,img/pics/Manchow (Veg).PNG,true
+Soup,10,110,Clear (Veg),,Veg,,img/pics/Clear (Veg).PNG,,,10,10,false,,true
+Soup,11,140,Clear (Chicken),,Non Veg,,img/pics/Clear (Chicken).PNG,,,10,10,false,,true
+Soup,12,160,Clear (Mutton),,Non Veg,,img/pics/Clear (Mutton).PNG,,,10,10,false,,true
+Soup,14,150,Lemon Coriander (Chicken),,Non Veg,,img/pics/Lemon Coriander (Chicken).PNG,,,10,10,false,,true
+Soup,16,120,Sweet Corn (Chicken),,Non Veg,,img/pics/Sweet Corn (Chicken).PNG,,,10,10,false,,true
+Indian Veg Starter,3,180,Gobi 65,,Veg,,img/pics/Gobi 65.PNG,,,10,10,false,,true
+Indian Veg Starter,4,190,Paneer 65,,Veg,,img/pics/Paneer 65.PNG,,,10,10,false,,true
+Indian Veg Starter,6,210,Paneer Tikka,,Veg,,img/pics/Paneer Tikka.PNG,,,10,10,false,,true
+Indian Veg Starter,7,220,Achari Paneer Tikka,,Veg,,img/pics/Achari Paneer Tikka.PNG,,,10,10,false,,true
+Indian Non-Veg Starters,1,250,Tandoori Chicken (Half),,Non Veg,,img/pics/Tandoori Chicken (Half).PNG,,,10,10,true,img/pics/Tandoori Chicken (Half).PNG,true
+Indian Non-Veg Starters,5,260,Chicken Tikka,,Non Veg,,img/pics/Chicken Tikka.PNG,,,10,10,true,img/pics/Chicken Tikka.PNG,true
+Indian Non-Veg Starters,7,270,Malai Kabab,,Non Veg,,img/pics/Malai Kabab.PNG,,,10,10,true,img/pics/Malai Kabab.PNG,true
+Indian Non-Veg Starters,11,140,Chicken 65 (Half),,Non Veg,,img/pics/Chicken 65 (Half).PNG,,,10,10,true,img/pics/Chicken 65 (Half).PNG,true
+Indian Non-Veg Starters,12,250,Chicken 65 (Full),,Non Veg,,img/pics/Chicken 65 (Full).PNG,,,10,10,true,img/pics/Chicken 65 (Full).PNG,true
+Indian Non-Veg Starters,13,240,Chicken Pepper Fry,,Non Veg,,img/pics/Chicken Pepper Fry.PNG,,,10,10,true,img/pics/Chicken Pepper Fry.PNG,true
+Arabian Starter,6,170,Alfaham Chicken (1 Pc),,Non Veg,,img/pics/Alfaham Chicken (1 Pc).PNG,,,10,10,true,img/pics/Alfaham Chicken (1 Pc).PNG,true
+Arabian Starter,6,170,Bbq Chicken (1 Pc),,Non Veg,,img/pics/Bbq Chicken (1 Pc).PNG,,,10,10,true,img/pics/Bbq Chicken (1 Pc).PNG,true
